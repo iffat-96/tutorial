@@ -5,7 +5,7 @@ export default class App extends React.Component {
   render() {
     return (
       <View style={styles.container}>
-        <Text>Iffat 1611279</Text>
+        <Text>Iffat 1611279,im adding some text in this file, warfee 1616757</Text>
       </View>
     );
   }
